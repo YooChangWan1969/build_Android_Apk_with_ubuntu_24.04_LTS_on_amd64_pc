@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas,ttf,json
 source.include_patterns = font/*,images/*.png
 source.exclude_exts = spec,txt
 source.exclude_dirs = tests, bin, venv, __pycache__
-version = 2.5.0
+version = 0.9.9
 
 requirements = python3,kivy==2.3.1,kivymd==1.2.0,sdl2_ttf,pillow,android,beautifulsoup4,soupsieve,requests==2.31.0,typing_extensions,plyer==2.1.0,pyjnius,olefile==0.47
 
