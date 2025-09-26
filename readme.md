@@ -1,6 +1,6 @@
 # September 26, 2025 
 
-I had some difficulties packaging a Kivy/KivyMD app with UBUNTU 24.04 LTS !!
+I had some difficulties packaging a Kivy/KivyMD app with ##UBUNTU 24.04 LTS## !!
 
 So I found the method of AMD64 PC using UBUNTU 24.04(NOT 22.04) LTS
 
