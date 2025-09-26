@@ -18,7 +18,7 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 2. sudo apt install python3.12-venv
 
-3. mkdir myapp                   ## example directory
+3. mkdir myapp                  <b> # example directory </b>
 
 4. sudo chmod -R 777 myapp
 
