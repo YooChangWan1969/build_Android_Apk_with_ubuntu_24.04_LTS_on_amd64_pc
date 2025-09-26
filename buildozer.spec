@@ -1,3 +1,4 @@
+### This setting is designed to comply with Google’s policy, such as applying a 16KB page size and Android SDK 35 or higher  ###
 [app]
 title = myAPP
 package.name = myAPP
