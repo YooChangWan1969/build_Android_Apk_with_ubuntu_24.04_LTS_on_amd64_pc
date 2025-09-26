@@ -10,7 +10,7 @@ source.exclude_exts = spec,txt
 source.exclude_dirs = tests, bin, venv, __pycache__
 version = 0.9.9
 
-requirements = python3,kivy==2.3.1,kivymd==1.2.0,sdl2_ttf,pillow,android,beautifulsoup4,soupsieve,requests==2.31.0,typing_extensions,plyer==2.1.0,pyjnius,olefile==0.47
+requirements = python3,kivy==2.3.1,kivymd==1.2.0,sdl2_ttf,pillow,pyjnius
 
 presplash.filename = %(source.dir)s/images/presplash.png
 icon.filename = %(source.dir)s/images/favicon.png
