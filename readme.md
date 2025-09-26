@@ -38,7 +38,7 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 12. sudo apt install -y git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
 
-Maybe libtinfo5 not install ... to skip libtinfo5 ... delete libtinfo5 !!!
+　　 Maybe libtinfo5 not install ... to skip libtinfo5 ... delete libtinfo5 !!!
 
 13. pip3 install --upgrade Cython==0.29.33 virtualenv       
 
