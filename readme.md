@@ -1,18 +1,18 @@
 # September 26, 2025 
 
-I had some difficulties packaging a Kivy/KivyMD app with <b><color=#FFFFFF>UBUNTU 24.04 LTS </color></b> !!
+I had some difficulties packaging a Kivy/KivyMD app with <b>UBUNTU 24.04 LTS</b> !!
 
-So I found the method of AMD64 PC using UBUNTU 24.04(NOT 22.04) LTS
+So I found the method of AMD64 PC using <b>UBUNTU 24.04(NOT 22.04) LTS</b>
 
-# First Install oracle virutalbox: 7.0.18 version. 
+## First Install oracle virutalbox: 7.0.18 version. 
 
 THE SPECIFIC VERSION IS VERY IMPORTANT!
 
-# Second Install Ubuntu 24.04 Desktop Verison
+## Second Install Ubuntu 24.04 Desktop Verison
 
-# Third .... USING TERMINAL ... IN UBUNTU 24.04.
+## Third .... USING TERMINAL ... IN UBUNTU 24.04.
 
-# Step by step ... Build Android apk with Buildozer on ubuntu 24.04 LST at Oracle VirtualBox
+## Step by step ... Build Android apk with Buildozer on ubuntu 24.04 LST at Oracle VirtualBox
 
 1. sudo apt install python3-pip
 
