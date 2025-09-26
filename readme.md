@@ -58,4 +58,5 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 21. buildozer -v android debug
 
-##Building Android APK with Buildozer is not possible through Ubuntu 24.04 in GitHub Actions.
+
+## Building Android APK with Buildozer is not possible through Ubuntu 24.04 in GitHub Actions.
