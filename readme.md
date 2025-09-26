@@ -37,24 +37,23 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 11. sudo apt update
 
 12. sudo apt install -y git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
-    
-Maybe libtinfo5 not install ... to skip libtinfo5 ... delete libtinfo5 !!! 
 
-14. pip3 install --upgrade Cython==0.29.33 virtualenv       
+Maybe libtinfo5 not install ... to skip libtinfo5 ... delete libtinfo5 !!!
 
-15. export PATH=$PATH:~/.local/bin/                         # add the following line at the end of your ~/.bashrc file
+13. pip3 install --upgrade Cython==0.29.33 virtualenv       
 
-16. sudo apt install -y automake
+14. export PATH=$PATH:~/.local/bin/                         # add the following line at the end of your ~/.bashrc file
 
-17. sudo apt update
+15. sudo apt install -y automake
 
-18. wget http://security.ubuntu.com/ubuntu/pool/universe/n/ncurses/libtinfo5_6.3-2ubuntu0.1_amd64.deb
+16. sudo apt update
 
-19. sudo apt install ./libtinfo5_6.3-2ubuntu0.1_amd64.deb
+17. wget http://security.ubuntu.com/ubuntu/pool/universe/n/ncurses/libtinfo5_6.3-2ubuntu0.1_amd64.deb
 
-20. pip3 install setuptools
+18. sudo apt install ./libtinfo5_6.3-2ubuntu0.1_amd64.deb
 
-21. buildozer init                                          # modify buildozer.spec
+19. pip3 install setuptools
 
-22. buildozer -v android debug
- 
+20. buildozer init                                          # modify buildozer.spec
+
+21. buildozer -v android debug
