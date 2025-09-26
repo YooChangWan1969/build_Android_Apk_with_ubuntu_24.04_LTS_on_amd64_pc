@@ -12,7 +12,7 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 # Third .... USING TERMINAL ... IN UBUNTU 24.04.
 
-# Step by step ... Build Android apk with Buildozer on ubuntu 24.04 LST
+# Step by step ... Build Android apk with Buildozer on ubuntu 24.04 LST at Oracle VirtualBox
 
 1. sudo apt install python3-pip
 
