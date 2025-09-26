@@ -42,7 +42,7 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 13. pip3 install --upgrade Cython==0.29.33 virtualenv       
 
-14. export PATH=$PATH:~/.local/bin/                         # add the following line at the end of your ~/.bashrc file
+14. export PATH=$PATH:~/.local/bin/                         <b># add the following line at the end of your ~/.bashrc file</b>
 
 15. sudo apt install -y automake
 
@@ -54,6 +54,6 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 19. pip3 install setuptools
 
-20. buildozer init                                          # modify buildozer.spec
+20. buildozer init                                          <b># modify buildozer.spec</b>
 
 21. buildozer -v android debug
