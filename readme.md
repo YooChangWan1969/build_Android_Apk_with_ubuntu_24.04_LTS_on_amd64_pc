@@ -4,15 +4,15 @@ I had some difficulties packaging a Kivy/KivyMD app for AMD64 PC !!
 
 So I found the method of AMD64 PC using UBUNTU 24.04(NOT 22.04) LTS
 
-First Install oracle virutalbox: 7.0.18 version. 
+# First Install oracle virutalbox: 7.0.18 version. 
 
 THE SPECIFIC VERSION IS VERY IMPORTANT!
 
-Second Install Ubuntu 24.04 Desktop Verison
+# Second Install Ubuntu 24.04 Desktop Verison
 
-Third .... USING TERMINAL ... IN UBUNTU 24.04.
+# Third .... USING TERMINAL ... IN UBUNTU 24.04.
 
-kivy apk on ubuntu 24.04 LST
+# Step by step ... Build Android apk with Buildozer on ubuntu 24.04 LST
 
 1. sudo apt install python3-pip
 
