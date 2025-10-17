@@ -60,3 +60,5 @@ THE SPECIFIC VERSION IS VERY IMPORTANT!
 
 
 ## Building Android APK with Buildozer is not possible through Ubuntu 24.04 in GitHub Actions.
+
+Good Luck
